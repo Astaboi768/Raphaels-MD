@@ -2,21 +2,21 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['2348180146181']
-global.ownername = "Raphael"//owner name
-global.ytname = "YT: Raphael-MD"
+global.ownernumber = ['2348039896597']
+global.ownername = "hêîṣ ɓr̃õƙêñ 💔"//owner name
+global.ytname = "YT: hêîṣ ɓr̃õƙêñ 💔"
 global.socialm = "GitHub: Isaiah-ilom"
 global.location = "Nigeria"
 
 global.botname = 'Raph-MD' //name of the bot
 
 //sticker details
-global.stickername = 'Raph-MD'
+global.stickername = 'heis broken '
 global.packname = 'Sticker By'
-global.author = 'Raphael Bot'
+global.author = 'heis Ayanfe'
 //console view/theme
 global.themeemoji = '⚡️'
-global.wm = "Raphael bots inc."
+global.wm = "hêîṣ ɓr̃õƙêñ 💔 bots inc."
 
 //theme link
 //global.link = 'https://chat.whatsapp.com/HpF5DuXZFt66bH2D7dIpty'
@@ -38,7 +38,7 @@ global.autoread_status = true //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '*here you go!* \n\n*🎀 Raph Bot 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/Raphael-scholar/Raphaels-MD\n',
+    done: '*here you go!* \n\n*🎀 hêîṣ ɓr̃õƙêñ 💔 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/Raphael-scholar/Raphaels-MD\n',
     prem: '*This feature can be used by premium user only*',
     admin: '*This feature can be used by admin only*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
